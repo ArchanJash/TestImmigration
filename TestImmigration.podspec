@@ -4,7 +4,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = "TestImmigration"
-spec.version      = "0.0.1"
+spec.version      = "0.0.3"
 spec.summary      = "Testing a podfile"
 spec.description  = <<-DESC
 This CocoaPods library helps you perform calculation.
