@@ -1,0 +1,88 @@
+PODS:
+  - Alamofire (4.8.2)
+  - CameraManager (4.4.0)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - Fabric (1.9.0)
+  - ImageSlideshow/Core (1.8.0)
+  - ImageSlideshow/SDWebImage (1.8.0):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - IQKeyboardManagerSwift (6.4.1)
+  - libwebp (1.0.3):
+    - libwebp/demux (= 1.0.3)
+    - libwebp/mux (= 1.0.3)
+    - libwebp/webp (= 1.0.3)
+  - libwebp/demux (1.0.3):
+    - libwebp/webp
+  - libwebp/mux (1.0.3):
+    - libwebp/demux
+  - libwebp/webp (1.0.3)
+  - ObjectMapper (3.5.1)
+  - ReachabilitySwift (4.3.1)
+  - SDLoader (0.2.0)
+  - SDWebImage (4.4.7):
+    - SDWebImage/Core (= 4.4.7)
+  - SDWebImage/Core (4.4.7)
+  - SDWebImage/WebP (4.4.7):
+    - libwebp (< 2.0, >= 0.5)
+    - SDWebImage/Core
+  - SkyFloatingLabelTextField (3.7.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyGif (5.1.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CameraManager (~> 4.0)
+  - Crashlytics (~> 3.12.0)
+  - Fabric (~> 1.9.0)
+  - ImageSlideshow/SDWebImage (~> 1.6)
+  - IQKeyboardManagerSwift
+  - ObjectMapper (~> 3.1)
+  - ReachabilitySwift
+  - SDLoader
+  - SDWebImage/WebP
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SVProgressHUD
+  - SwiftyGif
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CameraManager
+    - Crashlytics
+    - Fabric
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - libwebp
+    - ObjectMapper
+    - ReachabilitySwift
+    - SDLoader
+    - SDWebImage
+    - SkyFloatingLabelTextField
+    - SVProgressHUD
+    - SwiftyGif
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  CameraManager: 583710502c42178d12ef046d9d4f7893feff8354
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  ImageSlideshow: 197130fe349aafa9446f54277c792551d41eadf9
+  IQKeyboardManagerSwift: d2df660d0b8d64a15cb2537c9ff303213fa515b2
+  libwebp: 057912d6d0abfb6357d8bb05c0ea470301f5d61e
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  SDLoader: e35b571db413a4a98b6f58469b16dc095289c9f6
+  SDWebImage: c10d14a8883ebd89664f02a422006f66a85c0c5d
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyGif: f7702483db93586a41f04f4927cd682852a2fa10
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 6ecdda37f98ea34582869e85f8262d76bc3365a4
+
+COCOAPODS: 1.7.1
